@@ -1,4 +1,3 @@
 fix garden fence
 replace garden shed
 replace back door
-fix cat flap
